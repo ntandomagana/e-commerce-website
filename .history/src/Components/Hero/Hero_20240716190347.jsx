@@ -22,10 +22,10 @@ const Hero = () => {
           <img src={arrow_icon} alt="arrow icon" />
         </div>
       </div>
-      {/* 
+      //
       <div className="hero-right">
         <img src={hero_image} alt="hero pic" />
-      </div> */}
+      </div>
     </div>
   );
 };
